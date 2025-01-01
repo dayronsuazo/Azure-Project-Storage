@@ -18,3 +18,5 @@ Access Control: With SAS tokens, I can grant temporary, permission-specific acce
 Scalability: The solution can scale as the organisation storage needs grow.
 
 Cost-Effectiveness: Using Standard and Locally-Redundant Storage (LRS) minimises costs while ensuring reliability.
+
+This setup enables me to maintain control over file access while facilitating seamless collaboration among teams.
