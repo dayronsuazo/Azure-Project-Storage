@@ -5,7 +5,7 @@ The objective of this project is to configure a file storage account with Blob a
 
 For example
 
-Scenario: Managing Secure File Sharing for Internal Teams
+Job Specific Scenario: Managing Secure File Sharing for Internal Teams
 
 An IT Engineer, I was tasked with providing a secure method for internal teams to share large files, such as reports, backups, or multimedia assets, without relying on email or third-party services.
 
